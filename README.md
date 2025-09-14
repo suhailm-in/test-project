@@ -1,1 +1,1 @@
-# test-projects
+# test-projects-details
